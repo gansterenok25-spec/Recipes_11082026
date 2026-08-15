@@ -1,0 +1,1 @@
+- [Курица «Пикассо»](picasso_chicken.md)
